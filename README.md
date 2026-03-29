@@ -37,15 +37,17 @@
 
 ### 📂 Featured Projects
 
-#### 1. [AQI Smart Health Advisor](INSERT_PROJECT_LINK_1)
-*An AI-driven platform providing real-time air quality insights and personalized health recommendations.*
+#### 1. [AQI Smart Health Advisor]([INSERT_PROJECT_LINK_1](https://aqi-smart-health-advisor-webapp.onrender.com))
+*Developed a web platform to bridge the gap between entrepreneurs and investors, enabling seamless networking and collaboration.*
 * **Tech:** Python, Scikit-learn, Custom UI Branding.
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
+Wait for 1-2 min to open the website (it is slow because deployed on a freee account)
 
 #### 2. [NYC Taxi Trip Optimizer](INSERT_PROJECT_LINK_2)
 *Advanced regression analysis to predict trip durations using competitive datasets.*
-* **Tech:** XGBoost, Feature Engineering, RMSLE Optimization.
-* **Key Feature:** Achieved significant error reduction through hyperparameter tuning and geo-spatial data processing.
+* **Tech:** Flask, MySQL, JavaScript, HTML, CSS
+* **Key Feature:** Implemented structured user interaction workflows, secure data handling, and an intuitive interface to facilitate investor-entrepreneur matchmaking.
+Wait for 1-2 min to open the website (it is slow because deployed on a freee account)
 
 ---
 
@@ -58,11 +60,11 @@
 ---
 
 ### ⚡ Quick Bits
-* 🔭 **Currently working on:** A 15,000-line conversational dataset for the "Jalwa" AI persona.
-* 💻 **Hardware:** Ryzen 5500U | 16GB RAM | Mechanical Keyboard Enthusiast.
+* 🔭 **Currently working on:** Building Machine Learning scalable projects.
+* 💻 **Currently leaning:** Deep concepts of Machine Learning and increasing familiarity with Deep Leaning.
 * 🎯 **Goal:** Participating in 24-hour AI hackathons and solving professional-level engineering problems.
-* 🎬 **When not coding:** Watching *Golden Time* or exploring South Korean dramas.
+* 🎬 **When not coding:** Watching *Golden Time* or exploring animes, movies, dramas.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prashant-Kumar-Codes&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
