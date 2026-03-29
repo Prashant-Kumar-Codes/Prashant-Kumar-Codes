@@ -54,12 +54,15 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Kumar-Codes&link_color=8d2ccf&dash_color=8d2ccf&show_icons=true&theme=radical&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
 </p>
 
 <p align="center">
-  <img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Kumar-Codes&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prashant-Kumar-Codes&layout=compact&theme=radical&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
