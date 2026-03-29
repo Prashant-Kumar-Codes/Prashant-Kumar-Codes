@@ -37,15 +37,15 @@
 
 ### 📂 Featured Projects
 
-#### 1. [AQI Smart Health Advisor]([INSERT_PROJECT_LINK_1](https://aqi-smart-health-advisor-webapp.onrender.com))
+#### 1. [AQI Smart Health Advisor]([https://aqi-smart-health-advisor-webapp.onrender.com])
 *Developed a web platform to bridge the gap between entrepreneurs and investors, enabling seamless networking and collaboration.*
-* **Tech:** Python, Scikit-learn, Custom UI Branding.
+* **Tech:** Python, Scikit-learn, Custom UI Branding, PostgreSql, JavaScript, HTML, CSS, Api's.
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
 Wait for 1-2 min to open the website (it is slow because deployed on a freee account)
 
-#### 2. [NYC Taxi Trip Optimizer](INSERT_PROJECT_LINK_2)
+#### 2. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic-smart-entrepreneur-investor-connect.onrender.com/)
 *Advanced regression analysis to predict trip durations using competitive datasets.*
-* **Tech:** Flask, MySQL, JavaScript, HTML, CSS
+* **Tech:** Flask, PostgreSql, JavaScript, HTML, CSS, Api
 * **Key Feature:** Implemented structured user interaction workflows, secure data handling, and an intuitive interface to facilitate investor-entrepreneur matchmaking.
 Wait for 1-2 min to open the website (it is slow because deployed on a freee account)
 
