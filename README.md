@@ -37,7 +37,7 @@
 
 ### 📂 Featured Projects
 
-#### 1. [AQI Smart Health Advisor]([https://aqi-smart-health-advisor-webapp.onrender.com])
+#### 1. [AQI Smart Health Advisor](https://aqi-smart-health-advisor-webapp.onrender.com/)
 *Developed a web platform to bridge the gap between entrepreneurs and investors, enabling seamless networking and collaboration.*
 * **Tech:** Python, Scikit-learn, Custom UI Branding, PostgreSql, JavaScript, HTML, CSS, Api's.
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
