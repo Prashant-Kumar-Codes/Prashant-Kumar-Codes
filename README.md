@@ -107,7 +107,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 ---
 
 <div align="center">
-  <img src="https://github.com/Prashant-Kumar-Codes/Prashant-Kumar-Codes/blob/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" width="100%" />
+  <img src="https://github.com/Prashant-Kumar-Codes/Prashant-Kumar-Codes/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" width="100%" />
 </div>
 
 ---
