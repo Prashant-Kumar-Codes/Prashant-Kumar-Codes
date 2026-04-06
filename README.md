@@ -1,11 +1,15 @@
 <div align="center">
 
 # Hi there, I'm Prashant Kumar! 👋
-**Computer Science Engineering Student | Data Science | AL Engineer**
+**Computer Science Engineering Student | Data Science | AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsprashantkumar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prashantk2767@gmail.com)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Prashant-Kumar-Codes&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
 </div>
 
@@ -67,9 +71,52 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 
 ---
 
+## 📊 Contribution Graph & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-Kumar-Codes&theme=radical&no-frame=true&row=1&column=6" width="100%" />
+</p>
+
+---
+
+## ⭐ Popular Repositories
+
+<p align="center">
+  <a href="https://github.com/Prashant-Kumar-Codes/AQI-Smart-Health-Advisor">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=AQI-Smart-Health-Advisor&theme=radical&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Prashant-Kumar-Codes/SEIC-Smart-Entrepreneur-Investor-Connect">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=SEIC-Smart-Entrepreneur-Investor-Connect&theme=radical&hide_border=true" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prashant-Kumar-Codes">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://github.com/Prashant-Kumar-Codes/Prashant-Kumar-Codes/blob/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" width="100%" />
+</div>
+
+---
+
 ### ⚡ Quick Bits
 * 🔭 **Currently working on:** Building Machine Learning scalable projects.
-* 💻 **Currently leaning:** Deep concepts of Machine Learning and increasing familiarity with Deep Leaning.
+* 💻 **Currently learning:** Deep concepts of Machine Learning and increasing familiarity with Deep Learning.
 * 🎯 **Goal:** Participating in 24-hour AI hackathons and solving professional-level engineering problems.
 * 🎬 **When not coding:** Watching *Golden Time* or exploring animes, movies, dramas.
 
