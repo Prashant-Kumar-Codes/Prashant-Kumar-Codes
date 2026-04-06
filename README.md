@@ -17,7 +17,7 @@
 
 <div align="left">
 
-### 🛠️ Tech Stack & Toolbox
+### Tech Stack & Toolbox
 
 **Languages & Core AI**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,7 +55,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 
 ---
 
-### 📈 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
@@ -71,7 +71,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 
 ---
 
-## 📊 Contribution Graph & Activity
+## Contribution Graph & Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
@@ -79,7 +79,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 
 ---
 
-## 🏆 GitHub Trophies
+## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Prashant-Kumar-Codes&theme=radical&no-frame=true&row=1&column=6" width="100%" />
@@ -87,7 +87,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 
 ---
 
-## ⭐ Popular Repositories
+## Popular Repositories
 
 <p align="center">
   <a href="https://github.com/Prashant-Kumar-Codes/AQI-Smart-Health-Advisor">
@@ -105,8 +105,6 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
 
 <div align="center">
   <img src="https://github.com/Prashant-Kumar-Codes/Prashant-Kumar-Codes/blob/output/github-contribution-grid-snake.gif?raw=true" alt="Snake animation" width="100%" />
