@@ -12,19 +12,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: Platane/snk@master
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: Prashant-Kumar-Codes
           outputs_dir: ./dist
 
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: dist/
-
-      - name: Push generated files to the output branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
