@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@master
+        id: snake-svg
+        with:
+          github_user_name: Prashant-Kumar-Codes
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - uses: crazy-max/ghaction-github-pages@v3.7.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
