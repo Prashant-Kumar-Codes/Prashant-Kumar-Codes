@@ -79,14 +79,6 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashant-Kumar-Codes&theme=radical&no-frame=true&row=1&column=6" width="100%" />
-</p>
-
----
-
 ## Popular Repositories
 
 <p align="center">
