@@ -34,16 +34,12 @@
 
 **Data Visualization (The Trio)**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
 ![Seaborn](https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge&logo=tableau&logoColor=white)
-
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Tools & Environment**
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
-
 ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-white?style=for-the-badge)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
