@@ -48,7 +48,7 @@
 
 ### 📂 Featured Projects
 
-#### 1. [AQI Smart Health Advisor](https://aqi-smart-health-advisor-webapp.onrender.com/)
+#### 1. [AQI Smart Health Advisor](https://www.prashantbuilds.in/)
 *Developed a web platform to bridge the gap between entrepreneurs and investors, enabling seamless networking and collaboration.*
 * **Tech:** Python, Scikit-learn, Custom UI Branding, PostgreSql, JavaScript, HTML, CSS, Api's.
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
@@ -118,7 +118,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 * 🔭 **Currently working on:** Building Machine Learning scalable projects.
 * 💻 **Currently learning:** Deep concepts of Machine Learning and increasing familiarity with Deep Learning.
 * 🎯 **Goal:** Participating in 24-hour AI hackathons and solving professional-level engineering problems.
-* 🎬 **When not coding:** Watching *Golden Time* or exploring animes, movies, dramas.
+* 🎬 **When not coding:** Exploring new ideas and concepts, play cricket or video games, watching animes, movies, dramas.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Prashant-Kumar-Codes&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
