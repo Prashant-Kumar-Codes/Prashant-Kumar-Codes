@@ -4,7 +4,7 @@
 **Computer Science Engineering Student | Data Science | AI Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsprashantkumar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.prashantbuilds.in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prashantk2767@gmail.com)
 
 <p>
@@ -46,13 +46,17 @@
 
 ### 📂 Featured Projects
 
-#### 1. [AQI Smart Health Advisor](https://www.prashantbuilds.in/)
+#### 1. [AQI Smart Health Advisor](https://aqi/prashantbuilds.in/)
 *Developed a web platform to bridge the gap between entrepreneurs and investors, enabling seamless networking and collaboration.*
 * **Tech:** Python, Scikit-learn, Custom UI Branding, PostgreSql, JavaScript, HTML, CSS, Api's.
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
-Wait for 1-2 min to open the website (it is slow because deployed on a freee account)
 
-#### 2. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic-smart-entrepreneur-investor-connect.onrender.com/)
+#### 2. [Business Inspector](https://inspect.prashantbuilds.in/)
+*Developed an AI-powered platform that transforms sales and customer data into actionable business insights, helping organizations identify high-value customers, predict revenue, and reduce churn.*
+* **Tech:** Machine Learning, Deep Learning, Advanced AI Models, JavaScript, HTML, CSS, PostgreSQL, Secure Authentication, Encrypted Storage, APIs.
+* **Key Features:** Customer segmentation and behavior analysis, churn prediction with AI accuracy, revenue forecasting, interactive business dashboards, automated data processing without requiring code, and real-time performance monitoring.
+
+#### 3. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic-smart-entrepreneur-investor-connect.onrender.com/)
 *Advanced regression analysis to predict trip durations using competitive datasets.*
 * **Tech:** Flask, PostgreSql, JavaScript, HTML, CSS, Api
 * **Key Feature:** Implemented structured user interaction workflows, secure data handling, and an intuitive interface to facilitate investor-entrepreneur matchmaking.
