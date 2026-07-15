@@ -52,9 +52,10 @@
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
 
 #### 2. [Business Inspector](https://inspect.prashantbuilds.in/)
+⚠️ **Currently working on this project - you may not find it fully working**
 *Developed an AI-powered platform that transforms sales and customer data into actionable business insights, helping organizations identify high-value customers, predict revenue, and reduce churn.*
 * **Tech:** Machine Learning, Deep Learning, Advanced AI Models, JavaScript, HTML, CSS, PostgreSQL, Secure Authentication, Encrypted Storage, APIs.
-* **Key Features:** Customer segmentation and behavior analysis, churn prediction with AI accuracy, revenue forecasting, interactive business dashboards, automated data processing without requiring code, and real-time performance monitoring.
+* **Key Features:** Customer segmentation and behavior analysis, churn prediction with AI accuracy, revenue forecasting, interactive business dashboards, automated data processing.
 
 #### 3. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic-smart-entrepreneur-investor-connect.onrender.com/)
 *Advanced regression analysis to predict trip durations using competitive datasets.*
@@ -67,7 +68,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%">
 </p>
 
 <p align="center">
