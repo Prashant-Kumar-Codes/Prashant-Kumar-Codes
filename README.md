@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Prashant Kumar! 👋
-**Computer Science Engineering Student | Data Science | AI Engineer**
+**Computer Science Engineering Student | Data Science | ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsprashantkumar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.prashantbuilds.in/)
@@ -52,10 +52,12 @@
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
 
 #### 2. [Business Inspector](https://inspect.prashantbuilds.in/)
-⚠️ **Currently working on this project - you may not find it fully working**
 *Developed an AI-powered platform that transforms sales and customer data into actionable business insights, helping organizations identify high-value customers, predict revenue, and reduce churn.*
 * **Tech:** Machine Learning, Deep Learning, Advanced AI Models, JavaScript, HTML, CSS, PostgreSQL, Secure Authentication, Encrypted Storage, APIs.
 * **Key Features:** Customer segmentation and behavior analysis, churn prediction with AI accuracy, revenue forecasting, interactive business dashboards, automated data processing.
+
+⚠️ **Currently working on this project - you may not find it fully working**
+* 
 
 #### 3. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic-smart-entrepreneur-investor-connect.onrender.com/)
 *Advanced regression analysis to predict trip durations using competitive datasets.*
