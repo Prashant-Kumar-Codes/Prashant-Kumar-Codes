@@ -4,7 +4,8 @@
 **Computer Science Engineering Student | Data Science | ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsprashantkumar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.prashantbuilds.in/)
+[![Portfolio Link1](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.prashantbuilds.in/)
+[![Portfolio Link2](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=blue)]([https://portfolio.prashantbuilds.in/](https://prashant-kumar-codes.github.io/Portfolio.github.io/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prashantk2767@gmail.com)
 
 <p>
