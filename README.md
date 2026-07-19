@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsprashantkumar/)
 [![Portfolio Link1](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.prashantbuilds.in/)
-[![Portfolio Link2](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=blue)]([https://portfolio.prashantbuilds.in/](https://prashant-kumar-codes.github.io/Portfolio.github.io/))
+[![Portfolio Link2](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=blue)](https://prashant-kumar-codes.github.io/Portfolio.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](prashantk2767@gmail.com)
 
 <p>
@@ -73,7 +73,7 @@ Wait for 1-2 min to open the website (it is slow because deployed on a freee acc
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"[...]
 </p>
 
 <p align="center">
