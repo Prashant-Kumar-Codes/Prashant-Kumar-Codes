@@ -54,7 +54,7 @@
 * **Tech:** Python, Scikit-learn, Custom UI Branding, PostgreSql, JavaScript, HTML, CSS, Api's.
 * **Key Feature:** Predictive modeling for respiratory and heart health impacts based on live AQI data.
 
-#### 2. [Business Inspector](https://inspect.prashantbuilds.in/)
+#### 2. [Business Inspector](https://inspector.prashantbuilds.in/)
 *Developed an AI-powered platform that transforms sales and customer data into actionable business insights, helping organizations identify high-value customers, predict revenue, and reduce churn.*
 * **Tech:** Machine Learning, Deep Learning, Advanced AI Models, JavaScript, HTML, CSS, PostgreSQL, Secure Authentication, Encrypted Storage, APIs.
 * **Key Features:** Customer segmentation and behavior analysis, churn prediction with AI accuracy, revenue forecasting, interactive business dashboards, automated data processing.
