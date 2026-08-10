@@ -60,13 +60,14 @@
 * **Key Features:** Customer segmentation and behavior analysis, churn prediction with AI accuracy, revenue forecasting, interactive business dashboards, automated data processing.
 
 ⚠️ **Currently working on this project - you may not find it fully working**
-* 
 
-#### 3. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic-smart-entrepreneur-investor-connect.onrender.com/)
+#### 3. [SEIC - Smart-Entrepreneur-Investor-Connect](https://seic.prashantbuilds.in/)
 *Advanced regression analysis to predict trip durations using competitive datasets.*
 * **Tech:** Flask, PostgreSql, JavaScript, HTML, CSS, Api
 * **Key Feature:** Implemented structured user interaction workflows, secure data handling, and an intuitive interface to facilitate investor-entrepreneur matchmaking.
-Wait for 1-2 min to open the website (it is slow because deployed on a freee account)
+Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because database is on a free account)
+
+⚠️ **Currently working on this project - you may not find it fully working**
 
 ---
 
