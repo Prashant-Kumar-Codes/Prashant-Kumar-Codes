@@ -74,11 +74,11 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"[...]
+  <img src="https://github-readme-stats-prashant.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"[...]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prashant-Kumar-Codes&layout=compact&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-prashant.vercel.app/api/top-langs/?username=Prashant-Kumar-Codes&layout=compact&theme=radical&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
