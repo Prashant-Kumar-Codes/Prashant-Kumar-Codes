@@ -99,10 +99,10 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
 
 <p align="center">
   <a href="https://github.com/Prashant-Kumar-Codes/AQI-Smart-Health-Advisor">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=AQI-Smart-Health-Advisor&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=AQI-Smart-Health-Advisor&theme=radical&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Prashant-Kumar-Codes/SEIC-Smart-Entrepreneur-Investor-Connect">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=SEIC-Smart-Entrepreneur-Investor-Connect&theme=radical&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=SEIC-Smart-Entrepreneur-Investor-Connect&theme=radical&hide_border=true" width="48%" />
   </a>
 </p>
 
