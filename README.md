@@ -74,7 +74,7 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-prashant.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%"[...]
+  <img src="https://github-readme-stats-prashant.vercel.app/api?username=Prashant-Kumar-Codes&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -98,11 +98,11 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
 ## Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/Prashant-Kumar-Codes/AQI-Smart-Health-Advisor">
-    <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=AQI-Smart-Health-Advisor&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/Prashant-Kumar-Codes/AQI-Smart-Health-Advisor-WebApp">
+    <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=AQI-Smart-Health-Advisor-WebApp&theme=radical&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/Prashant-Kumar-Codes/SEIC-Smart-Entrepreneur-Investor-Connect.git">
-    <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=SEIC-Smart-Entrepreneur-Investor-Connect&theme=radical&hide_border=true" width="48%" />
+  <a href="https://github.com/Prashant-Kumar-Codes/NLP">
+    <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=NLP&theme=radical&hide_border=true" width="48%" />
   </a>
 </p>
 
