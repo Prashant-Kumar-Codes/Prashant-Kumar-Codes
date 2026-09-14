@@ -90,7 +90,7 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
 ## Contribution Graph & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph-prasha.vercel.app/graph?username=Prashant-Kumar-Codes&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ Wait for 5-10 sec or refresh 4-5 times to open the website (it is slow because d
   <a href="https://github.com/Prashant-Kumar-Codes/AQI-Smart-Health-Advisor">
     <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=AQI-Smart-Health-Advisor&theme=radical&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/Prashant-Kumar-Codes/SEIC-Smart-Entrepreneur-Investor-Connect">
+  <a href="https://github.com/Prashant-Kumar-Codes/SEIC-Smart-Entrepreneur-Investor-Connect.git">
     <img src="https://github-readme-stats-prashant.vercel.app/api/pin/?username=Prashant-Kumar-Codes&repo=SEIC-Smart-Entrepreneur-Investor-Connect&theme=radical&hide_border=true" width="48%" />
   </a>
 </p>
